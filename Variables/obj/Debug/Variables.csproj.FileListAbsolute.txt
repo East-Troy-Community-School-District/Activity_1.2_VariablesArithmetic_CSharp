@@ -1,0 +1,7 @@
+\\et-fileserver\staff\pawnol\Desktop\Variables\bin\Debug\Variables.exe.config
+\\et-fileserver\staff\pawnol\Desktop\Variables\bin\Debug\Variables.exe
+\\et-fileserver\staff\pawnol\Desktop\Variables\bin\Debug\Variables.pdb
+\\et-fileserver\staff\pawnol\Desktop\Variables\obj\Debug\Variables.csproj.AssemblyReference.cache
+\\et-fileserver\staff\pawnol\Desktop\Variables\obj\Debug\Variables.csproj.CoreCompileInputs.cache
+\\et-fileserver\staff\pawnol\Desktop\Variables\obj\Debug\Variables.exe
+\\et-fileserver\staff\pawnol\Desktop\Variables\obj\Debug\Variables.pdb

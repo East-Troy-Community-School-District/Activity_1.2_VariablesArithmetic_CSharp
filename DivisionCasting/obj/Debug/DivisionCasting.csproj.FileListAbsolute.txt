@@ -1,0 +1,7 @@
+\\et-fileserver\staff\pawnol\Desktop\DivisionCasting\bin\Debug\DivisionCasting.exe.config
+\\et-fileserver\staff\pawnol\Desktop\DivisionCasting\bin\Debug\DivisionCasting.exe
+\\et-fileserver\staff\pawnol\Desktop\DivisionCasting\bin\Debug\DivisionCasting.pdb
+\\et-fileserver\staff\pawnol\Desktop\DivisionCasting\obj\Debug\DivisionCasting.csproj.AssemblyReference.cache
+\\et-fileserver\staff\pawnol\Desktop\DivisionCasting\obj\Debug\DivisionCasting.csproj.CoreCompileInputs.cache
+\\et-fileserver\staff\pawnol\Desktop\DivisionCasting\obj\Debug\DivisionCasting.exe
+\\et-fileserver\staff\pawnol\Desktop\DivisionCasting\obj\Debug\DivisionCasting.pdb

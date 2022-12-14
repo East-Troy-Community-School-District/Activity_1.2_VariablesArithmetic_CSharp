@@ -1,0 +1,7 @@
+\\et-fileserver\staff\pawnol\Desktop\Operators\bin\Debug\Operators.exe.config
+\\et-fileserver\staff\pawnol\Desktop\Operators\bin\Debug\Operators.exe
+\\et-fileserver\staff\pawnol\Desktop\Operators\bin\Debug\Operators.pdb
+\\et-fileserver\staff\pawnol\Desktop\Operators\obj\Debug\Operators.csproj.AssemblyReference.cache
+\\et-fileserver\staff\pawnol\Desktop\Operators\obj\Debug\Operators.csproj.CoreCompileInputs.cache
+\\et-fileserver\staff\pawnol\Desktop\Operators\obj\Debug\Operators.exe
+\\et-fileserver\staff\pawnol\Desktop\Operators\obj\Debug\Operators.pdb
