@@ -1,7 +1,8 @@
 ﻿/*
  * DivisionCasting
- * 12/5/2022
- * C#.NET I
+ * Pawelski
+ * 9/5/2023
+ * Developing Desktop Applications
  * 
  * Instructions
  * 1. Trace the program and predict its output. Run the program to
